@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CA4intent</string>
+    <string name="nameprompt">Your full name %1$s</string>
+</resources>
